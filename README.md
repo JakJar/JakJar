@@ -12,7 +12,7 @@ Feel free to contact with me 😄.
 
 [![](https://komarev.com/ghpvc/?username=JakJar&color=000000)](https://github.com/JakJar?tab=repositories)
 
-[<img src="https://img.shields.io/badge/Codewars-AA3620?style=for-the-badge&logo=Codewars&logoColor=white">](https://www.codewars.com/users/K_u_%20Ba)
+[<img src="https://user-images.githubusercontent.com/61714495/174355904-123d27b2-bce4-4c25-ade3-710248be0360.svg">](https://www.codewars.com/users/K_u_%20Ba)
 
 - 🔭 I’m currently working on [**KeepMovin**](https://github.com/mlocekjakub/ProjecteElGrande)
 - 🌱 I’m currently learning **C#**, **.NET** & **React**
